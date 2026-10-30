@@ -1,0 +1,74 @@
+{
+  "source": "Original deterministic synthesis, no third-party recordings",
+  "seed": 5417,
+  "sampleRate": 22050,
+  "stereo": true,
+  "motifMIDI": [
+    72,
+    76,
+    79,
+    76,
+    74,
+    72,
+    67,
+    71,
+    69,
+    72,
+    76,
+    72,
+    67,
+    65,
+    64,
+    67
+  ],
+  "chordsMIDI": [
+    [
+      48,
+      55,
+      60,
+      64
+    ],
+    [
+      45,
+      52,
+      57,
+      60
+    ],
+    [
+      41,
+      48,
+      53,
+      57
+    ],
+    [
+      43,
+      50,
+      55,
+      59
+    ]
+  ],
+  "themes": [
+    "Quiet harbor",
+    "Working harbor",
+    "Undertow",
+    "Dawn engine",
+    "Sailing"
+  ],
+  "effects": [
+    "touch",
+    "boarding",
+    "build",
+    "rare",
+    "sailing",
+    "nagi",
+    "undertow",
+    "touma",
+    "beacon",
+    "guide",
+    "step",
+    "automatic",
+    "dawn",
+    "afterwave"
+  ],
+  "variationsEach": 4
+}

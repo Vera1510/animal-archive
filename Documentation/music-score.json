@@ -1,0 +1,81 @@
+{
+  "title": "A Seat for Tomorrow",
+  "composer": "Original procedural composition for Animal Archive",
+  "bpm": 96,
+  "bars": 16,
+  "sampleRate": 22050,
+  "melodyMIDI": [
+    [
+      69,
+      72,
+      76,
+      74,
+      72,
+      69,
+      67,
+      64
+    ],
+    [
+      65,
+      69,
+      72,
+      74,
+      72,
+      69,
+      65,
+      64
+    ],
+    [
+      67,
+      71,
+      74,
+      76,
+      74,
+      71,
+      67,
+      64
+    ],
+    [
+      64,
+      67,
+      71,
+      72,
+      71,
+      67,
+      64,
+      62
+    ]
+  ],
+  "chordMIDI": [
+    [
+      45,
+      52,
+      57,
+      60
+    ],
+    [
+      41,
+      48,
+      53,
+      57
+    ],
+    [
+      43,
+      50,
+      55,
+      59
+    ],
+    [
+      40,
+      47,
+      52,
+      55
+    ]
+  ],
+  "arrangements": [
+    "Harbour / felt keys, breath flute",
+    "Undertow / bowed pad, clock pulse",
+    "Last Lantern / low drums, octave strings",
+    "Seedling / music box, warm harmony"
+  ]
+}

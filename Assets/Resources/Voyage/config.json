@@ -1,0 +1,241 @@
+{
+  "version": 10,
+  "animals": [
+    {
+      "name": "ミギ",
+      "species": "ネコ",
+      "lore": "最初に持ってきたのは、明日の種。",
+      "rarity": 0,
+      "value": 4,
+      "weight": 42,
+      "tier": 0,
+      "atlas": 0,
+      "row": 0
+    },
+    {
+      "name": "ベル",
+      "species": "ヒツジ",
+      "lore": "仲間と一緒だと、安心して船へ向かう。",
+      "rarity": 0,
+      "value": 5,
+      "weight": 34,
+      "tier": 0,
+      "atlas": 0,
+      "row": 1
+    },
+    {
+      "name": "コハク",
+      "species": "キツネ",
+      "lore": "誰も気づかなかった潮の匂いを知っている。",
+      "rarity": 1,
+      "value": 12,
+      "weight": 12,
+      "tier": 1,
+      "atlas": 0,
+      "row": 2
+    },
+    {
+      "name": "モチ",
+      "species": "ウサギ",
+      "lore": "足は速くても、友達を待つことができる。",
+      "rarity": 0,
+      "value": 7,
+      "weight": 18,
+      "tier": 0,
+      "atlas": 0,
+      "row": 3
+    },
+    {
+      "name": "フクロウ博士",
+      "species": "フクロウ",
+      "lore": "灯台から招待された、白紙の帳面の先生。",
+      "rarity": 2,
+      "value": 60,
+      "weight": 2,
+      "tier": 1,
+      "atlas": 1,
+      "row": 0
+    },
+    {
+      "name": "ナギサ",
+      "species": "カワウソ",
+      "lore": "宝物の石にも、ひとつ席をお願いしたい。",
+      "rarity": 1,
+      "value": 14,
+      "weight": 12,
+      "tier": 1,
+      "atlas": 1,
+      "row": 1
+    },
+    {
+      "name": "ツノ",
+      "species": "シカ",
+      "lore": "角には、遠い森の小さな葉が残っている。",
+      "rarity": 1,
+      "value": 20,
+      "weight": 8,
+      "tier": 2,
+      "atlas": 1,
+      "row": 2
+    },
+    {
+      "name": "ポルカ",
+      "species": "ペンギン",
+      "lore": "揺れる甲板でも、歩き方はいつも堂々。",
+      "rarity": 1,
+      "value": 23,
+      "weight": 6,
+      "tier": 2,
+      "atlas": 1,
+      "row": 3
+    },
+    {
+      "name": "イシ",
+      "species": "カメ",
+      "lore": "ゆっくりでも、進んだ道は消えない。",
+      "rarity": 1,
+      "value": 28,
+      "weight": 5,
+      "tier": 2,
+      "atlas": 2,
+      "row": 0
+    },
+    {
+      "name": "モフ",
+      "species": "アルパカ",
+      "lore": "種類が違っても、ベルの呼び声に返事する。",
+      "rarity": 1,
+      "value": 31,
+      "weight": 4,
+      "tier": 2,
+      "atlas": 2,
+      "row": 1
+    },
+    {
+      "name": "クマドリ",
+      "species": "アナグマ",
+      "lore": "大きな袋には、おやつよりたくさんの種。",
+      "rarity": 2,
+      "value": 70,
+      "weight": 1.8,
+      "tier": 3,
+      "atlas": 2,
+      "row": 2
+    },
+    {
+      "name": "シロ",
+      "species": "オオカミ",
+      "lore": "暮潮に現れた白い影。怖いのではなく、道を探していた。",
+      "rarity": 2,
+      "value": 110,
+      "weight": 1.2,
+      "tier": 3,
+      "atlas": 2,
+      "row": 3
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "frequency",
+      "name": "呼び鐘",
+      "description": "次の動物を、もっと早く",
+      "costs": [
+        12,
+        50,
+        180,
+        650,
+        2200,
+        7000
+      ],
+      "tiers": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "batch",
+      "name": "群れを迎える",
+      "description": "一度に迎える数と、出会いを増やす",
+      "costs": [
+        28,
+        110,
+        420,
+        1500,
+        5000
+      ],
+      "tiers": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "value",
+      "name": "乗船口を広げる",
+      "description": "同時登船数・吸引範囲・貢献が増える",
+      "costs": [
+        18,
+        85,
+        360,
+        1400,
+        5200
+      ],
+      "tiers": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "rarity",
+      "name": "案内人の技",
+      "description": "合図の範囲と、守りの時間を育てる",
+      "costs": [
+        35,
+        140,
+        550,
+        2100,
+        8000
+      ],
+      "tiers": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "baseInterval": 2.8,
+  "frequencyFactor": 0.84,
+  "travelMin": 10,
+  "travelMax": 13,
+  "valueStep": 0.35,
+  "uncommonStep": 0.18,
+  "rareStep": 0.65,
+  "maxActive": 85,
+  "automationAt": 500,
+  "discoveryAt": 100,
+  "middleAt": 700,
+  "twilightAt": 2500,
+  "lanternCost": 1200,
+  "finalTotal": 200000,
+  "finalBoarded": 1200,
+  "stages": [
+    "最初の乗船",
+    "まだ知らない仲間",
+    "舟が動きはじめる",
+    "暮潮の灯り",
+    "明日を運ぶ群れ",
+    "出航の準備ができた",
+    "新しい岸へ"
+  ]
+}

@@ -1,0 +1,35 @@
+{"conversations":[
+ {"id":"prologue","place":"白庭観測院・連絡廊","lines":[
+ {"speaker":"記録","text":"第七日　朝の連絡簿\n応答欄には、ひとつも印がなかった。","mood":"record"},
+ {"speaker":"ナギ","text":"……聞こえる？　こちら、入口のナギ。","mood":"quiet"},
+ {"speaker":"トウマ","text":"聞こえるよ。収容区画からの返事が、全部止まっている。","mood":"serious"},
+ {"speaker":"ナギ","text":"全部？","mood":"surprise"},
+ {"speaker":"トウマ","text":"うん。……398件、全部。","mood":"pause"},
+ {"speaker":"ナギ","text":"ずいぶん静かな朝だと思った。動物たちは？","mood":"serious"},
+ {"speaker":"トウマ","text":"元気だよ。少なくとも、猫は記録簿の上で寝ている。","mood":"dry"},
+ {"speaker":"ナギ","text":"では、現場を見て回ろう。記録より先に、足跡を。","mood":"resolve"}]},
+ {"id":"before01","place":"01 / 日だまりの観察庭","lines":[
+ {"speaker":"ナギ","text":"二匹とも、昼寝の部屋へ戻れないみたい。真ん中で道が詰まってる。","mood":"serious"},
+ {"speaker":"トウマ","text":"猫は一匹ずつ動く。猫の印のある出口まで、道を空けてやって。","mood":"quiet"},
+ {"speaker":"ナギ","text":"動かす猫を選んで、方向を確かめる。それから一歩、だね。","mood":"resolve"},
+ {"speaker":"トウマ","text":"右に待避場所がある。急がなくていい。猫にも、こちらにも。","mood":"dry"}]},
+ {"id":"after01","place":"01 / 観察庭・通路復旧","lines":[
+ {"speaker":"ナギ","text":"二匹とも帰った。……寝床は別なのに、枕は同じなんだ。","mood":"soft"},
+ {"speaker":"トウマ","text":"それは毎朝のことだよ。異常ではない。","mood":"dry"},
+ {"speaker":"ナギ","text":"こっちの連絡札は裏返し。裏に、羊の足跡がついてる。","mood":"serious"},
+ {"speaker":"トウマ","text":"羊は回廊にいるはずだ。今、向こうの扉が開いた。確認してくれる？","mood":"resolve"}]},
+ {"id":"before02","place":"02 / 足音の回廊","lines":[
+ {"speaker":"ナギ","text":"羊が二頭。それから、さっきの猫が一匹。","mood":"surprise"},
+ {"speaker":"トウマ","text":"戻るのが早いね。猫の勤務記録は、つけないことにしよう。","mood":"dry"},
+ {"speaker":"ナギ","text":"一頭が動くと、隣の羊も同じ方へ動いてる。","mood":"serious"},
+ {"speaker":"トウマ","text":"縦か横でつながった羊は、ひとつの群れになる。誰かの前がふさがると、全員が止まる。","mood":"quiet"},
+ {"speaker":"ナギ","text":"なら、並んだまま通れる道を作ろう。出口も二つ並んでる。","mood":"resolve"}]},
+ {"id":"after02","place":"02 / 回廊・観察再開","lines":[
+ {"speaker":"ナギ","text":"群れが通ったら、連絡札が一斉に揺れた。これで返事が戻るかな。","mood":"soft"},
+ {"speaker":"トウマ","text":"待って。朝の記録と、頭数が合わない。羊は一頭と書いてある。","mood":"serious"},
+ {"speaker":"ナギ","text":"でも、最初から二頭いたよ。二頭とも、同じ鈴をつけて。","mood":"surprise"},
+ {"speaker":"トウマ","text":"……連絡が止まったんじゃない。記録のほうが、置き換わっている？","mood":"pause"},
+ {"speaker":"ナギ","text":"記録室の窓に、狐がいる。口にくわえてるの、朝の連絡簿じゃない？","mood":"fox"},
+ {"speaker":"トウマ","text":"追い立てないで。まずは、その子が何を入れ替えたのか調べよう。","mood":"resolve"},
+ {"speaker":"記録","text":"第一節　記録にない足音 — 調査一区切り\n二つの区画は、ふたたび動き出した。\n次の手がかりは、まだ閉じた記録室にある。","mood":"ending"}]}
+]}
